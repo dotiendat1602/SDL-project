@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682581789 source:d:\codeblocks\2048 ban chinh thuc lan 2\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<fstream>
+
